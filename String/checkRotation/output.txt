@@ -1,0 +1,1 @@
+Yes, the second string is rotation of the first string.
